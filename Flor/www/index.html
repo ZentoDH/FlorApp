@@ -6,30 +6,53 @@
     <!-- Compiled and minified CSS -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/index.css">
+
 
     <title>Flor</title>
 </head>
 <body>
     <!--About-->
-    <div id="about" class="col s12">
-        <blockquote class="card-panel col s10 offset-s1">
-            <h1>Developer</h1>
-            <p class="bold">naam:</p>
-            <p>Zento De Houwer</p>
-            <h1>Contact</h1>
-            <p class="bold">E-mail:</p>
-            <p><a class="truncate" href="mailto:zentodehouwer@gmail.com">zentodehouwer@gmail.com</a></p>
-            <p>GSM</p>
-            <p><a href="sms:+32478508952">+32478/50.89.52</a></p>
-        </blockquote>
-
-        <blockquote class="laatste card-panel col s10 offset-s1">
-            <h1>Over de app</h1>
-            <p class="flow-text">Laat op de home pagina zien dat je in den Beatnik bent
-                door in te checken, reserveer tickets voor optredens en upload foto's van
-                je avonden in den Beatnik.</p>
-        </blockquote>
+    <div id="logo" class="col offset-s6 s3">
+        <img src="img/logo.png" style="visibility: hidden;" />
     </div>
+    <div class="row">
+        <form class="col s12">
+            <div class="row">
+                <div class="input-field col s6">
+                    <input id="voornaam" type="text" class="validate">
+                    <label for="voornaam">First Name</label>
+                </div>
+                <div class="input-field col s6">
+                    <input id="familienaam" type="text" class="validate">
+                    <label for="familienaam">Last Name</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s12">
+                    <p class="range-field">
+                        <input type="range" id="aantalPersonen" min="1" max="10" value="1"/>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="input-field col s6">
+                    <input id="email" type="email" class="validate">
+                    <label for="email">Email</label>
+                </div>
+                <div class="input-field col s6">
+                    <input id="telefoon" type="tel" class="validate">
+                    <label for="telefoon">telefoon</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12 bevestig">
+                    <input type="submit" id="bevestig" class="waves-effect waves-light btn" value="Volgende" />
+                </div>
+            </div>
+        </form>
+    </div>
+
 </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <!-- Compiled and minified JavaScript -->
