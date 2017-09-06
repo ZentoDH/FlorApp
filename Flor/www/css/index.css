@@ -1,3 +1,13 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
 #logo {
     background-image: url("../img/logo.png");
     background-position: center;
@@ -6,4 +16,8 @@
 
 .bevestig {
     text-align: center;
+}
+
+.page-footer {
+    background-color: #2d2d2d !important;
 }
