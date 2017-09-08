@@ -19,7 +19,7 @@
     </header>
     <main>
         <div class="row">
-            <form action="menu.html" class="col s12">
+            <form action="overzicht.html" class="col s12" onsubmit="getFormGegevens()" id="klantGegevens" >
                 <div class="row">
                     <div class="input-field col s6">
                         <input id="voornaam" type="text" class="validate">
@@ -33,6 +33,8 @@
                 <div class="row">
                     <div class="input-field col s12">
                         <p class="range-field">
+                            <label for="aantalPersonen">Aantal personen</label>
+                            <br/>
                             <input type="range" id="aantalPersonen" min="1" max="10" value="1"/>
                         </p>
                     </div>
@@ -79,6 +81,16 @@
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
 <script type="text/javascript">
+    function getFormGegevens(){
+        var inputs = document.getElementsByTagName('input');
+        var gegevens = new Array(inputs.length);
+
+        for (var i = 0; i < inputs.length; i++){
+            gegevens[i] = inputs[i].value;
+        }
+        sessionStorage.setItem('gegevensArray', JSON.stringify(gegevens));
+    }
+
     $('.datepicker').pickadate({
         selectMonths: true, // Creates a dropdown to control month
         selectYears: 15, // Creates a dropdown of 15 years to control year,
@@ -98,9 +110,6 @@
         ampmclickable: true, // make AM PM clickable
         aftershow: function(){} //Function for after opening timepicker
     });
-</script>
-<script type="text/javascript">
-
 </script>
 </body>
 </html>

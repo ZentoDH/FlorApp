@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "be.brasserieflor.www"
+        },
+        "cordova-sms-plugin": {
+            "PACKAGE_NAME": "be.brasserieflor.www"
         }
     },
     "dependent_plugins": {}

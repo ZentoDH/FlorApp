@@ -31,6 +31,20 @@ var app = {
 
     },
 
+    checkSMSPermission: function() {
+        var success = function (hasPermission) {
+            if (hasPermission) {
+                sms.send(...);
+            }
+            else {
+                // show a helpful message to explain why you need to require the permission to send a SMS
+                // read http://developer.android.com/training/permissions/requesting.html#explain for more best practices
+            }
+        };
+        var error = function (e) { alert('Something went wrong:' + e); };
+        sms.hasPermission(success, error);
+    },
+
     // Update DOM on a Received Event
     receivedEvent: function(id) {
         var parentElement = document.getElementById(id);

@@ -4,7 +4,10 @@
         <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
         <param name="onload" value="true" />
     </feature>
-    <name>FlorApp</name>
+    <feature name="Sms">
+        <param name="android-package" value="com.cordova.plugins.sms.Sms" />
+    </feature>
+    <name>Flor</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
     </description>
