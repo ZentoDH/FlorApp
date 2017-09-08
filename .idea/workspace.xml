@@ -2,42 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36e8a0d-c37d-42ff-b8b3-761199f2a323" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/www/overzicht.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/www/sendsms.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/img/logo.png" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/img/logo.png" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/img/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/config.xml" afterPath="$PROJECT_DIR$/Flor/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/package.json" afterPath="$PROJECT_DIR$/Flor/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Flor/platforms/android/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/android.json" afterPath="$PROJECT_DIR$/Flor/platforms/android/android.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/css/index.css" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/js/index.js" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/js/menu.js" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/js/menu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/build.gradle" afterPath="$PROJECT_DIR$/Flor/platforms/android/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/res/values/strings.xml" afterPath="$PROJECT_DIR$/Flor/platforms/android/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/settings.gradle" afterPath="$PROJECT_DIR$/Flor/platforms/android/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/browser.json" afterPath="$PROJECT_DIR$/Flor/platforms/browser/browser.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/config.xml" afterPath="$PROJECT_DIR$/Flor/platforms/browser/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/config.xml" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/cordova_plugins.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/css/index.css" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/js/index.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/js/materialize.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/js/materialize.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/js/menu.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/js/menu.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/plugins/android.json" afterPath="$PROJECT_DIR$/Flor/plugins/android.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/plugins/browser.json" afterPath="$PROJECT_DIR$/Flor/plugins/browser.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/plugins/fetch.json" afterPath="$PROJECT_DIR$/Flor/plugins/fetch.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/www/about.html" afterPath="$PROJECT_DIR$/Flor/www/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/www/index.html" afterPath="$PROJECT_DIR$/Flor/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/www/js/index.js" afterPath="$PROJECT_DIR$/Flor/www/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/www/js/menu.js" afterPath="$PROJECT_DIR$/Flor/www/js/menu.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -55,7 +20,7 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flor/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
+            <state relative-caret-position="1530">
               <caret line="90" column="74" lean-forward="false" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -68,7 +33,7 @@
       <file leaf-file-name="overzicht.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flor/www/overzicht.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="1309">
               <caret line="77" column="49" lean-forward="false" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -91,7 +56,7 @@
       <file leaf-file-name="Twilio.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flor/simpleSMS-master/inc/Services/Twilio.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="2822">
               <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
               <folding />
             </state>
@@ -111,8 +76,8 @@
       <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
+            <state relative-caret-position="306">
+              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -123,7 +88,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Flor/www/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
+            <state relative-caret-position="595">
               <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="95" />
               <folding />
             </state>
@@ -153,8 +118,8 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Flor/www/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+            <state relative-caret-position="189">
+              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -233,8 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -293,6 +256,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -382,11 +347,12 @@
       <workItem from="1504695867882" duration="9668000" />
       <workItem from="1504768366808" duration="11099000" />
       <workItem from="1504785139721" duration="10659000" />
+      <workItem from="1504857557870" duration="40000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36499000" />
+    <option name="totallyTimeSpent" value="36539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -399,9 +365,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18456884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18759455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -800,16 +766,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flor/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -820,7 +776,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flor/www/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
+        <state relative-caret-position="595">
           <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="95" />
           <folding />
         </state>
@@ -836,7 +792,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flor/www/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
+        <state relative-caret-position="1530">
           <caret line="90" column="74" lean-forward="false" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -855,7 +811,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flor/simpleSMS-master/inc/Services/Twilio.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="2822">
           <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
           <folding />
         </state>
@@ -863,7 +819,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Flor/www/overzicht.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="1309">
           <caret line="77" column="49" lean-forward="false" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -872,10 +828,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Flor/www/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="45" column="6" lean-forward="false" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
+        <state relative-caret-position="189">
+          <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
