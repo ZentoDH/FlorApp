@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="css/index.css">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+    <link rel="stylesheet" href="http://fonts.googleapis.com/icon?family=Material+Icons"/>
+    <!-- Compiled and minified CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+
+    <title>bevestiging</title>
+</head>
+<body>
+<header>
+    <div id="logo" class="col offset-s6 s3">
+        <img src="img/logo.png" style="visibility: hidden;" />
+    </div>
+</header>
+<main>
+    <h1 id="bedankt"></h1>
+    <div class="row center">
+        <a href="index.html"><button class="waves-effect waves-light btn">Terug</button></a>
+    </div>
+</main>
+<footer>
+    <div class="footer-copyright">
+        <div class="container">
+            &copy; 2017 Copyright brasserie Flor
+            <a class="grey-text text-lighten-4 right" href="about.html">About</a>
+        </div>
+    </div>
+</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<!-- Compiled and minified JavaScript -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+       var gegevens = JSON.parse(sessionStorage.getItem("gegevensArray"));
+       document.getElementById('bedankt').innerHTML = "Bedankt voor je reservatie " + gegevens[0] + " " + gegevens[1];
+    });
+</script>
+</body>
+</html>

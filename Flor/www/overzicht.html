@@ -44,7 +44,7 @@
         </div>
     </div>
     <div class="row center">
-        <div class="s4 offset-s4"><button onclick="sendSms()" class="waves-effect waves-light btn">Bevestig</button></div>
+        <div class="s4 offset-s4"><button onclick="sendMail()" class="waves-effect waves-light btn">Bevestig</button></div>
     </div>
 </main>
 <footer class="page-footer">
@@ -58,26 +58,33 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <!-- Compiled and minified JavaScript -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>
-<script type="text/javascript" src="//media.twiliocdn.com/sdk/js/client/v1.4/twilio.min.js"></script>
+<script type="text/javascript" src="https://cdn.emailjs.com/dist/email.min.js"></script>
 <script type="text/javascript">
-    function sendSms() {
-        var number = '+32485362756';
-        var msg = 'yoooo';
-        console.log(number + msg);
+    (function(){
+        emailjs.init("user_N3hz1TzL1xSyxsuO9K2kB");
+    })();
+</script>
+<script type="text/javascript">
 
-        var options = {
-            replaceLineBreaks: false,
-            android: {
-                intent: 'INTENT'
-            }
-        };
+    function sendMail(){
+        var gegevens = JSON.parse(sessionStorage.getItem("gegevensArray"));
+        var SERVICE_ID = "flor_app";
+        var TEMPLATE_ID = "reservatie";
 
-        alert('derp');
-        //var success = function () { alert('message sent')};
-        //var error = function (e) { alert('message failed')};
-        sms.send(number, msg, options, null, null);
-        alert('derp');
-    };
+        emailjs.send(SERVICE_ID,TEMPLATE_ID,{
+            voornaam: gegevens[0],
+            familienaam: gegevens[1],
+            personen: gegevens[2],
+            email: gegevens[3],
+            telefoon: gegevens[4],
+            datum: gegevens[5],
+            tijd: gegevens[6]}).then(function(response) {
+                console.log("SUCCESS. status=%d, text=%s", response.status, response.text);
+                window.location.href = 'bevestigd.html';
+            }, function(err) {
+                console.log("FAILED. error=", err);
+            });
+    }
     $(document).ready(function(){
         var gegevens = JSON.parse(sessionStorage.getItem("gegevensArray"));
         var outputs = document.getElementsByClassName('gegevensOutput');
