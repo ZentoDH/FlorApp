@@ -1,0 +1,5 @@
+.ondertitel{font-size:60px}
+html {font-family: "Open Sans",sans-serif;}
+#gerechtNaam{text-transform: uppercase; letter-spacing: 2px; overflow-wrap: break-word;}
+#gerechtBeschrijving{overflow-wrap: break-word;}
+hr{margin-top:30px;}

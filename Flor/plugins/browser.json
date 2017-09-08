@@ -9,6 +9,12 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "be.brasserieflor.www"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "be.brasserieflor.www"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "be.brasserieflor.www"
         }
     },
     "dependent_plugins": {}
