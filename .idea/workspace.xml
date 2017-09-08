@@ -2,7 +2,224 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f36e8a0d-c37d-42ff-b8b3-761199f2a323" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/www/js/index.js" afterPath="$PROJECT_DIR$/Flor/www/js/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/.github/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/de/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/es/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/fr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/it/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/ja/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/ko/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/pl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/zh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/android/Device.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/browser/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/firefoxos/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/ios/CDVDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/ios/CDVDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/osx/CDVDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/osx/CDVDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/tizen/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/ubuntu/device.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/ubuntu/device.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/ubuntu/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/windows/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/src/wp/Device.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/tests/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/.github/PULL_REQUEST_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/de/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/es/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/fr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/it/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/ja/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/ko/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/pl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/zh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/src/android/StatusBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/src/ios/CDVStatusBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/src/ios/CDVStatusBar.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/src/windows/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/src/wp/StatusBar.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/tests/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/node_modules/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/css/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/platform_www/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/platform_www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/src/org/apache/cordova/device/Device.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/android/src/org/apache/cordova/statusbar/StatusBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/plugins/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/css/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/plugins/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/de/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/es/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/fr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/it/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/ja/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/ko/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/pl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/zh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/android/Device.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/blackberry10/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/firefoxos/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/ios/CDVDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/ios/CDVDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/osx/CDVDevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/osx/CDVDevice.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/tizen/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/ubuntu/device.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/ubuntu/device.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/ubuntu/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/windows/DeviceProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/src/wp/Device.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/tests/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-device/www/device.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/NOTICE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/RELEASENOTES.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/de/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/de/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/es/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/es/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/fr/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/fr/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/it/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/it/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/ja/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/ja/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/ko/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/ko/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/pl/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/pl/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/ru/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/zh/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/doc/zh/index.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/src/android/StatusBar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/src/browser/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/src/ios/CDVStatusBar.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/src/ios/CDVStatusBar.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/src/windows/StatusBarProxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/src/wp/StatusBar.cs" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/tests/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/tests/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/tests/tests.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/types/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/plugins/cordova-plugin-statusbar/www/statusbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Flor/www/css/menu.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_CordovaLib_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/3.3/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/fileHashes/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/config.xml" afterPath="$PROJECT_DIR$/Flor/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/package.json" afterPath="$PROJECT_DIR$/Flor/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/.gradle/buildOutputCleanup/cache.properties" afterPath="$PROJECT_DIR$/Flor/platforms/android/.gradle/buildOutputCleanup/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/android.json" afterPath="$PROJECT_DIR$/Flor/platforms/android/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/about.html" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/assets/www/menu.html" afterPath="$PROJECT_DIR$/Flor/platforms/android/assets/www/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml" afterPath="$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/browser.json" afterPath="$PROJECT_DIR$/Flor/platforms/browser/browser.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/config.xml" afterPath="$PROJECT_DIR$/Flor/platforms/browser/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/platform_www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/about.html" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/about.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/config.xml" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/cordova_plugins.js" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/cordova_plugins.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/index.html" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/platforms/browser/www/menu.html" afterPath="$PROJECT_DIR$/Flor/platforms/browser/www/menu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/plugins/android.json" afterPath="$PROJECT_DIR$/Flor/plugins/android.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/plugins/browser.json" afterPath="$PROJECT_DIR$/Flor/plugins/browser.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/plugins/fetch.json" afterPath="$PROJECT_DIR$/Flor/plugins/fetch.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Flor/www/menu.html" afterPath="$PROJECT_DIR$/Flor/www/menu.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,54 +234,88 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="browser.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/browser.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-160">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cordova_plugins.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/menu.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/index.html">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1530">
-              <caret line="90" column="74" lean-forward="false" selection-start-line="90" selection-start-column="74" selection-end-line="90" selection-end-column="74" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3294#3300#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="overzicht.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/overzicht.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1309">
-              <caret line="77" column="49" lean-forward="false" selection-start-line="77" selection-start-column="49" selection-end-line="77" selection-end-column="49" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1770#1776#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sendsms.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/sendsms.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="2" lean-forward="false" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            <state relative-caret-position="278">
+              <caret line="94" column="5" lean-forward="false" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Twilio.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/simpleSMS-master/inc/Services/Twilio.php">
+      <file leaf-file-name="cordova_plugins.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2822">
-              <caret line="166" column="0" lean-forward="false" selection-start-line="166" selection-start-column="0" selection-end-line="166" selection-end-column="0" />
+            <state relative-caret-position="308">
+              <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/js/menu.js">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="android.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/android.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="89" column="2" lean-forward="false" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cache.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Flor/platforms/android/.gradle/buildOutputCleanup/cache.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -73,56 +324,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
+      <file leaf-file-name="browser.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Flor/plugins/browser.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="95" />
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/config.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Flor/www/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Flor/www/js/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="31" column="6" lean-forward="false" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -139,6 +346,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>flora</find>
+      <find>file</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,7 +361,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml" />
         <option value="$PROJECT_DIR$/Flor/www/css/index.css" />
         <option value="$PROJECT_DIR$/Flor/www/js/menu.js" />
         <option value="$PROJECT_DIR$/Flor/www/menu.html" />
@@ -163,6 +370,25 @@
         <option value="$PROJECT_DIR$/Flor/www/sendsms.php" />
         <option value="$PROJECT_DIR$/Flor/www/overzicht.html" />
         <option value="$PROJECT_DIR$/Flor/www/js/index.js" />
+        <option value="$PROJECT_DIR$/Flor/plugins/fetch.json" />
+        <option value="$PROJECT_DIR$/Flor/plugins/browser.json" />
+        <option value="$PROJECT_DIR$/Flor/plugins/android.json" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/www/menu.html" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/www/index.html" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/www/cordova_plugins.js" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/www/config.xml" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/www/about.html" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/platform_www/cordova_plugins.js" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/config.xml" />
+        <option value="$PROJECT_DIR$/Flor/platforms/browser/browser.json" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/assets/www/menu.html" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/assets/www/about.html" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/android.json" />
+        <option value="$PROJECT_DIR$/Flor/platforms/android/.gradle/buildOutputCleanup/cache.properties" />
       </list>
     </option>
   </component>
@@ -173,6 +399,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/Flor/node_modules" />
     <handled-path value="$PROJECT_DIR$/Flor/platforms/android/cordova/node_modules" />
     <handled-path value="$PROJECT_DIR$/Flor/platforms/browser/cordova/node_modules" />
   </component>
@@ -209,6 +436,16 @@
               <option name="myItemId" value="FlorApp" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlorApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlorApp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Flor" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
@@ -228,7 +465,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
+              <option name="myItemId" value="platforms" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,11 +483,67 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="www" />
+              <option name="myItemId" value="platforms" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlorApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlorApp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".gradle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="buildOutputCleanup" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlorApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FlorApp" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Flor" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="platforms" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".gradle" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,12 +640,12 @@
       <workItem from="1504695867882" duration="9668000" />
       <workItem from="1504768366808" duration="11099000" />
       <workItem from="1504785139721" duration="10659000" />
-      <workItem from="1504857557870" duration="40000" />
+      <workItem from="1504857557870" duration="2015000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36539000" />
+    <option name="totallyTimeSpent" value="38514000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,10 +660,11 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18759455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1860817" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19967267" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -382,7 +676,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -422,152 +715,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Flor/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="94" lean-forward="false" selection-start-line="63" selection-start-column="66" selection-end-line="63" selection-end-column="94" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3294#3300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/overzicht.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="41" column="51" lean-forward="false" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1770#1776#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/js/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3294#3300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3294#3300#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/css/materialize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2601">
-          <caret line="153" column="24" lean-forward="false" selection-start-line="153" selection-start-column="24" selection-end-line="153" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -732,27 +879,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="57" lean-forward="false" selection-start-line="1" selection-start-column="57" selection-end-line="1" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/www/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="98" lean-forward="false" selection-start-line="1" selection-start-column="98" selection-end-line="1" selection-end-column="98" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Flor/www/img/logo.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -762,14 +888,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="29" lean-forward="false" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/config.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -828,13 +946,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
+    <entry file="file://$PROJECT_DIR$/Flor/plugins/fetch.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/plugins/android.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -845,6 +977,154 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/www/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="111" column="9" lean-forward="false" selection-start-line="111" selection-start-column="9" selection-end-line="111" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/www/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/www/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#form#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2221#2227#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/www/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/platform_www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="43" column="39" lean-forward="false" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/plugins/browser.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/browser/browser.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="68" column="3" lean-forward="false" selection-start-line="68" selection-start-column="3" selection-end-line="68" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/res/xml/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-160">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/platform_www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/menu.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="53" column="13" lean-forward="false" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="94" column="5" lean-forward="false" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/cordova_plugins.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="31" column="39" lean-forward="false" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/assets/www/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="41" column="39" lean-forward="false" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/android.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="89" column="2" lean-forward="false" selection-start-line="89" selection-start-column="2" selection-end-line="89" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Flor/platforms/android/.gradle/buildOutputCleanup/cache.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
